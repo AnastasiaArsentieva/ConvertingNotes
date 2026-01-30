@@ -106,3 +106,10 @@ mAP50 (97%).
 
 ![photo(66)](https://github.com/user-attachments/assets/cb55d374-1e69-4b48-8a33-e455f0b6aa86)
 
+**Внешний вид приложения**
+
+к распознанной ноте добавлен % точности (насколько процентов модель уверена, что верно распознала ноту)
+
+<img width="1247" height="1112" alt="image" src="https://github.com/user-attachments/assets/7694578d-830f-4501-8ba6-c56685a8f1e6" />
+
+
